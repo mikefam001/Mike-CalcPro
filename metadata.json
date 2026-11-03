@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc Pro - All-in-One Mathematical & Scientific Calculator",
+  "description": "Comprehensive, high-precision browser calculator suite featuring scientific, matrix, calculus, statistics, financial, unit conversion, and everyday calculation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
